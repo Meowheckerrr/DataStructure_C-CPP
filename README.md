@@ -1,2 +1,1 @@
-# Title
 # DataStructure-C-C-
