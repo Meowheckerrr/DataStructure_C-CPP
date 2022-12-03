@@ -1,5 +1,4 @@
-command=update
-
+command="update"
 
 git add .
 git commit -m $command
