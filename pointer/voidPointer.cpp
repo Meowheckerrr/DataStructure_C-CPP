@@ -14,6 +14,4 @@ int main(){
     printf("address = %d", p0);
     //printf("address = %d\n", p0+1);  沒辦法加memory address 因為她不知道要加多少
     //printf("value=%d, *p0"); 也沒辦法 他不知要取多少bytes 
-
-
 }
