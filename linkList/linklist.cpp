@@ -17,7 +17,7 @@ void Insert(int number){
     (*temp).data = number;  //temp->data=number
     (*temp).next = head;    //temp->next=head  
 
-    head=temp;
+    head=temp; // return address(被分配) 
 
 }
 
